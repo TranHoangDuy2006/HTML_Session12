@@ -1,0 +1,9 @@
+.ds
+{
+    display: flex;
+}
+
+.custom-distance
+{
+    margin-left: 20px;
+}
